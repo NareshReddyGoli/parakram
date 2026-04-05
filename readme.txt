@@ -1,1 +1,1 @@
-A complete GATE notesc
+GATE 2026
